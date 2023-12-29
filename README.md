@@ -14,14 +14,11 @@ This repository demonstrates web scraping using Selenium to extract information 
 
 ## Instructions
 
-1. **Environment Setup:**
-   - Install the required dependencies, including Python, Selenium, and other libraries. Use the `requirements.txt` file.
-
-2. **Web Scraping:**
+1. **Web Scraping:**
    - Run the web scraping script to extract information about mobile phones from the Jumia website.
 
-3. **Text Preprocessing:**
+2. **Text Preprocessing:**
    - Execute the text preprocessing script to clean and organize the extracted text data.
 
-4. **Data Analysis:**
+3. **Data Analysis:**
    - Use the preprocessed data for analysis, visualization, or further processing as needed.
